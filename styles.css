@@ -1,0 +1,13 @@
+body {
+    background: green;
+    color: white;
+}
+
+#firstdiv {
+    background: pink;
+}
+
+.header {
+    color: aqua;
+    font-size: 3res;
+}
